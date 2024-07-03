@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "356f592d-6c60-4fc4-9b23-c9536aa93faf",
+    "Name": "SrmArtifactVisaPage",
+    "ModifiedOnUtc": "\/Date(1705333688000)\/",
+    "Parent": {
+      "UId": "d3cc497c-f286-4f13-99c1-751c468733c0",
+      "Name": "BasePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Карточка схемы: \"Виза артефакта\""
+  }
+}

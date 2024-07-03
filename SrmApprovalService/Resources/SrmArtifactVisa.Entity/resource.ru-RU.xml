@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Виза артефакта" />
+			<Item Name="Columns.CreatedOn.Caption" Value="Дата назначения" />
+			<Item Name="Columns.SetBy.Caption" Value="Фактический исполнитель" />
+			<Item Name="Columns.SetDate.Caption" Value="Дата выполнения" />
+			<Item Name="Columns.SrmApprovalPeriod.Caption" Value="Срок ожидания визы" />
+			<Item Name="Columns.SrmArtifact.Caption" Value="Артефакт" />
+			<Item Name="Columns.SrmPlannedDate.Caption" Value="Плановый срок ожидания визы" />
+			<Item Name="Columns.SrmPriorityApproval.Caption" Value="Очередность" />
+			<Item Name="Columns.SrmReconcilingType.Caption" Value="Тип согласующего" />
+			<Item Name="Columns.SrmVisaResult.Caption" Value="Результат выполнения" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

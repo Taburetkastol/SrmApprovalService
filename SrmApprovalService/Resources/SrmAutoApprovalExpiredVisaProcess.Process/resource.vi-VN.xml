@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Comment.Caption" Value="Các ghi chú" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.CreatedBy.Caption" Value="Được tạo bởi" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.CreatedOn.Caption" Value="Được tạo vào" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.DelegatedFrom.Caption" Value="Được ủy quyền từ" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Id.Caption" Value="Id" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.IsAllowedToDelegate.Caption" Value="Cho phép ủy quyền" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.IsCanceled.Caption" Value="Đã hủy" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.IsRequiredDigitalSignature.Caption" Value="Yêu cầu chữ ký số" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.ModifiedBy.Caption" Value="Chỉnh sửa bởi" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.ModifiedOn.Caption" Value="Điều chỉnh vào ngày" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Objective.Caption" Value="Mục đích phê duyệt" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.ProcessListeners.Caption" Value="Những quy trình đang hoạt động" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.SetBy.Caption" Value="Cài đặt bằng" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.SetDate.Caption" Value="Cài đặt vào" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Status.Caption" Value="Trạng thái" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.VisaOwner.Caption" Value="Người phê duyệt" />
+		</Items>
+	</Group>
+</Resources>

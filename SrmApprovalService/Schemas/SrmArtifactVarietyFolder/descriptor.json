@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "b007923c-3a79-4206-ae5b-5c8af2cfacb8",
+    "Name": "SrmArtifactVarietyFolder",
+    "ModifiedOnUtc": "\/Date(1707922688000)\/",
+    "Parent": {
+      "UId": "d602bf96-d029-4b07-9755-63c8f5cb5ed5",
+      "Name": "BaseFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Группа Вид артефакта"
+  }
+}

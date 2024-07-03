@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "34d5c9d3-6352-434b-a624-96094b08c055",
+    "Name": "SrmFormArtifactContentProcess",
+    "ModifiedOnUtc": "\/Date(1708611230000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "INS02.2.2 Формирование Содержания Артефакта"
+  }
+}

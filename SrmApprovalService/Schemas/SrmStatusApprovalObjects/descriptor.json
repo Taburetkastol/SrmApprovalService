@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "39923def-7eaa-417a-b6e8-234d06ac18ff",
+    "Name": "SrmStatusApprovalObjects",
+    "ModifiedOnUtc": "\/Date(1704986325000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Статусы объектов согласования"
+  }
+}

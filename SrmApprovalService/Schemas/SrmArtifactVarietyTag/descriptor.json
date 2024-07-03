@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "ac174c5a-70fe-4de2-bda7-805301406daf",
+    "Name": "SrmArtifactVarietyTag",
+    "ModifiedOnUtc": "\/Date(1707922694000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег раздела Вид артефакта"
+  }
+}

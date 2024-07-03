@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "49473a98-70d9-4bac-bb5e-283afd7fab3f",
+    "Name": "SrmApprovalObjectColumn",
+    "ModifiedOnUtc": "\/Date(1708958231000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Поле объекта согласования"
+  }
+}

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Карточка схемы: &quot;Виза артефакта&quot;" />
+			<Item Name="Images.3d0e757a-6b77-4cbe-9ed0-1d588472a33a.Image" Type="Image" ContentType="Data" FileExtension=".svg" Value="PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3QgeD0iMyIgeT0iMyIgd2lkdGg9IjE4IiBoZWlnaHQ9IjE4IiByeD0iMyIgc3Ryb2tlPSIjNjc3NDhFIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTggNFYyMCIgc3Ryb2tlPSIjNjc3NDhFIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8cGF0aCBkPSJNMTIgNFYyMCIgc3Ryb2tlPSIjNjc3NDhFIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8cGF0aCBkPSJNMTYgNFYyMCIgc3Ryb2tlPSIjNjc3NDhFIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8L3N2Zz4K" />
+			<Item Name="LocalizableStrings.CreatedOne2bfdba70024471c817db69c87c59ebeLabelCaption.Value" Value="Дата назначения" />
+			<Item Name="LocalizableStrings.SetByedacd4a1a11344789ed44c464111ca43LabelCaption.Value" Value="Фактический исполнитель" />
+			<Item Name="LocalizableStrings.SetDatea9a774b760c941ee81a0fa3a081cce28LabelCaption.Value" Value="Дата выполнения" />
+		</Items>
+	</Group>
+</Resources>

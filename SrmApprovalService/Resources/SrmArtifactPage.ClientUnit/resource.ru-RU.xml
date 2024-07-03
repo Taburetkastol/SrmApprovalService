@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Карточка схемы: &quot;Артефакт&quot;" />
+			<Item Name="Images.3d0e757a-6b77-4cbe-9ed0-1d588472a33a.Image" Type="Image" ContentType="Data" FileExtension=".svg" Value="PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3QgeD0iMyIgeT0iMyIgd2lkdGg9IjE4IiBoZWlnaHQ9IjE4IiByeD0iMyIgc3Ryb2tlPSIjNjc3NDhFIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTggNFYyMCIgc3Ryb2tlPSIjNjc3NDhFIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8cGF0aCBkPSJNMTIgNFYyMCIgc3Ryb2tlPSIjNjc3NDhFIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8cGF0aCBkPSJNMTYgNFYyMCIgc3Ryb2tlPSIjNjc3NDhFIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8L3N2Zz4K" />
+			<Item Name="LocalizableStrings.CancelApprovalActionCaption.Value" Value="Отменить согласование" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Лента" />
+			<Item Name="LocalizableStrings.FileDetailV2DetailCaptionOnPage.Value" Value="Файлы и ссылки" />
+			<Item Name="LocalizableStrings.FilesTabTabCaption.Value" Value="Файлы" />
+			<Item Name="LocalizableStrings.ReconciliationTabTabCaption.Value" Value="Согласование" />
+			<Item Name="LocalizableStrings.ReturnForRevisionActionCaption.Value" Value="Вернуть на доработку" />
+			<Item Name="LocalizableStrings.SendForApprovalActionCaption.Value" Value="Отправить на согласование" />
+			<Item Name="LocalizableStrings.SrmArtifactFileDetailDetailCaptionOnPage.Value" Value="Файлы и ссылки" />
+			<Item Name="LocalizableStrings.SrmArtifactMatchingDetailDetailCaptionOnPage.Value" Value="Согласующие" />
+			<Item Name="LocalizableStrings.SrmArtifactVisaDetailDetailCaptionOnPage.Value" Value="Согласования" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Подписаться на обновление ленты" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Вы подписаны на обновление ленты: {0}" />
+			<Item Name="LocalizableStrings.TapeTabTabCaption.Value" Value="Лента" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Хронология" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Отписаться от обновлений ленты" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Вы отписаны от обновлений ленты: {0}" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "83df822c-294d-4b47-aef4-5a2fcfe12c68",
+    "Name": "SrmMatrixCoordinationTag",
+    "ModifiedOnUtc": "\/Date(1707952240000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег раздела Матрица согласования"
+  }
+}

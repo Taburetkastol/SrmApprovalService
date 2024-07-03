@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Поле объекта согласования" />
+			<Item Name="Columns.SrmColumnCode.Caption" Value="Код поля" />
+			<Item Name="Columns.SrmColumnName.Caption" Value="Название поля" />
+			<Item Name="Columns.SrmColumnSchemaName.Caption" Value="Название схемы поля" />
+			<Item Name="Columns.SrmColumnUId.Caption" Value="Поле" />
+			<Item Name="Columns.SrmObject.Caption" Value="Объект согласования" />
+		</Items>
+	</Group>
+</Resources>

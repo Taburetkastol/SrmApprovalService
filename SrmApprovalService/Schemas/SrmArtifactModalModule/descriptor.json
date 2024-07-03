@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "84da5176-dd54-4927-8107-2061eaed3456",
+    "Name": "SrmArtifactModalModule",
+    "ModifiedOnUtc": "\/Date(1707489849000)\/",
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Модуль модального окна \"Задача на доработку\""
+  }
+}

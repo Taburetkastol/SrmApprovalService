@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "ab180e20-81b3-4b66-b744-81793a6bce51",
+    "Name": "SrmCancelApprovalProcess",
+    "ModifiedOnUtc": "\/Date(1709570357000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "INS02.5 Отмена согласования"
+  }
+}

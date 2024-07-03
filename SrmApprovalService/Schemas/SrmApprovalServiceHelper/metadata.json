@@ -1,0 +1,66 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "SourceCodeSchemaManager",
+      "UId": "a384142e-ae37-4237-ba9d-5695aa4aaa57",
+      "A2": "SrmApprovalServiceHelper",
+      "A5": "4128fb75-366d-4d29-8fbf-e8a0f05c2c6e",
+      "B1": [],
+      "B2": [
+        {
+          "UId": "5304249f-fda7-232b-b4e8-dc1824e55762",
+          "A2": "GetApprovalObjectRecordError",
+          "A3": "a384142e-ae37-4237-ba9d-5695aa4aaa57",
+          "A4": "a384142e-ae37-4237-ba9d-5695aa4aaa57",
+          "A5": "4128fb75-366d-4d29-8fbf-e8a0f05c2c6e"
+        },
+        {
+          "UId": "98f6a73a-0ed5-0a09-b2fe-0e404891e03b",
+          "A2": "GetApprovalObjectSchemaUIdError",
+          "A3": "a384142e-ae37-4237-ba9d-5695aa4aaa57",
+          "A4": "a384142e-ae37-4237-ba9d-5695aa4aaa57",
+          "A5": "4128fb75-366d-4d29-8fbf-e8a0f05c2c6e"
+        },
+        {
+          "UId": "d676344d-a08b-4b03-04cd-5ff4b5e3dca3",
+          "A2": "EntityColumnNotFoundError",
+          "A3": "a384142e-ae37-4237-ba9d-5695aa4aaa57",
+          "A4": "a384142e-ae37-4237-ba9d-5695aa4aaa57",
+          "A5": "4128fb75-366d-4d29-8fbf-e8a0f05c2c6e"
+        },
+        {
+          "UId": "3274378b-c56e-d133-9a9f-3908d130dd73",
+          "A2": "SchemaNotFoundError",
+          "A3": "a384142e-ae37-4237-ba9d-5695aa4aaa57",
+          "A4": "a384142e-ae37-4237-ba9d-5695aa4aaa57",
+          "A5": "4128fb75-366d-4d29-8fbf-e8a0f05c2c6e"
+        },
+        {
+          "UId": "17319bb2-4fea-b73e-4bbb-00468215707d",
+          "A2": "GetObjectsConnectionColumnError",
+          "A3": "a384142e-ae37-4237-ba9d-5695aa4aaa57",
+          "A4": "a384142e-ae37-4237-ba9d-5695aa4aaa57",
+          "A5": "4128fb75-366d-4d29-8fbf-e8a0f05c2c6e"
+        },
+        {
+          "UId": "c8705ba2-7455-a78d-fd79-a6a7eb6835cc",
+          "A2": "GetArtifactApprovalObjectRecordId",
+          "A3": "a384142e-ae37-4237-ba9d-5695aa4aaa57",
+          "A4": "a384142e-ae37-4237-ba9d-5695aa4aaa57",
+          "A5": "4128fb75-366d-4d29-8fbf-e8a0f05c2c6e"
+        },
+        {
+          "UId": "70392c34-d89b-759a-d5e8-4abc9ad2cf22",
+          "A2": "ColumnUIdNotFoundError",
+          "A3": "a384142e-ae37-4237-ba9d-5695aa4aaa57",
+          "A4": "a384142e-ae37-4237-ba9d-5695aa4aaa57",
+          "A5": "4128fb75-366d-4d29-8fbf-e8a0f05c2c6e"
+        }
+      ],
+      "B3": [],
+      "B6": "40358dc6-59fb-a5e8-dcb9-38cc47250903",
+      "B8": "1.3.0.3026",
+      "HD1": "50e3acc0-26fc-4237-a095-849a1d534bd3"
+    }
+  }
+}

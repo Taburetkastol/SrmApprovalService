@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Артефакт" />
+			<Item Name="Columns.SrmActualDate.Caption" Value="Фактический срок согласования" />
+			<Item Name="Columns.SrmArtifactType.Caption" Value="Тип артефакта" />
+			<Item Name="Columns.SrmArtifactVariety.Caption" Value="Вид артефакта" />
+			<Item Name="Columns.SrmContent.Caption" Value="Содержание артефакта" />
+			<Item Name="Columns.SrmMatrixCoordination.Caption" Value="Матрица согласования" />
+			<Item Name="Columns.SrmName.Caption" Value="Название" />
+			<Item Name="Columns.SrmOwner.Caption" Value="Ответственный" />
+			<Item Name="Columns.SrmPlannedDate.Caption" Value="Плановый срок согласования" />
+			<Item Name="Columns.SrmReconcilingObject.Caption" Value="Объект" />
+			<Item Name="Columns.SrmStatus.Caption" Value="Статус" />
+			<Item Name="Columns.SrmVersion.Caption" Value="Версия" />
+		</Items>
+	</Group>
+</Resources>

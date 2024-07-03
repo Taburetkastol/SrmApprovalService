@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "53fd6da7-5598-45e6-809e-cfb14fac7d8a",
+    "Name": "SrmArtifactMatchingPage",
+    "ModifiedOnUtc": "\/Date(1712737829000)\/",
+    "Parent": {
+      "UId": "d3cc497c-f286-4f13-99c1-751c468733c0",
+      "Name": "BasePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Карточка схемы: \"Согласующий артефакта\""
+  }
+}

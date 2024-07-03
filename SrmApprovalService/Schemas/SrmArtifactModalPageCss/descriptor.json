@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "8c58ad06-fcd4-46f4-959b-750f5636a751",
+    "Name": "SrmArtifactModalPageCss",
+    "ModifiedOnUtc": "\/Date(1706101774000)\/",
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Стили для модального окна \"Задача на доработку\"",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Поля объектов согласования" />
+			<Item Name="Columns.SrmObject.Caption" Value="Объект" />
+			<Item Name="Columns.SrmSystemName.Caption" Value="Системное наименование поля" />
+			<Item Name="Columns.SrmType.Caption" Value="Тип" />
+		</Items>
+	</Group>
+</Resources>

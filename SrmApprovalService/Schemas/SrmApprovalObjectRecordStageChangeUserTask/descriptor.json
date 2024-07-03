@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "59a7686c-71b4-4755-aa26-32e71cc24450",
+    "Name": "SrmApprovalObjectRecordStageChangeUserTask",
+    "ModifiedOnUtc": "\/Date(1713535728000)\/",
+    "ManagerName": "ProcessUserTaskSchemaManager",
+    "Caption": "Изменение стадии записи объекта согласования"
+  }
+}

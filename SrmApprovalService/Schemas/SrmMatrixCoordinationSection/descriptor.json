@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "d98c2c61-323d-4075-aa4a-36c3dfea41f5",
+    "Name": "SrmMatrixCoordinationSection",
+    "ModifiedOnUtc": "\/Date(1707952913000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема раздела: \"Матрицы согласования\""
+  }
+}

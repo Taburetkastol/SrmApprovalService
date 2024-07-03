@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Согласующий артефакта" />
+			<Item Name="Columns.SrmApprovalPeriod.Caption" Value="Срок согласования в днях" />
+			<Item Name="Columns.SrmArtifact.Caption" Value="Артефакт" />
+			<Item Name="Columns.SrmCoordinating.Caption" Value="Согласующий" />
+			<Item Name="Columns.SrmPriorityApproval.Caption" Value="Очередность" />
+			<Item Name="Columns.SrmReconcilingType.Caption" Value="Тип согласующего" />
+		</Items>
+	</Group>
+</Resources>

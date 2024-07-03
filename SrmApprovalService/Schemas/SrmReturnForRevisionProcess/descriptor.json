@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "a85c2cdf-efe5-4fd6-9148-7f2eb8a599ea",
+    "Name": "SrmReturnForRevisionProcess",
+    "ModifiedOnUtc": "\/Date(1712673528000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "INS02.4 Возврат на доработку"
+  }
+}

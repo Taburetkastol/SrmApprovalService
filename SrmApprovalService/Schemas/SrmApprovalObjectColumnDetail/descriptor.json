@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "ffb16b2b-9450-4584-a39f-21114b5d1282",
+    "Name": "SrmApprovalObjectColumnDetail",
+    "ModifiedOnUtc": "\/Date(1708958367000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема детали: \"Поля объекта согласования\""
+  }
+}

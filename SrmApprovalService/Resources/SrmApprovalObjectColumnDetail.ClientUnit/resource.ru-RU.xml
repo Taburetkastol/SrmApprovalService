@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Схема детали: &quot;Поля объекта согласования&quot;" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Колонки объекта сервиса согласования" />
+			<Item Name="LocalizableStrings.DuplicateColumnMessage.Value" Value="Колонка уже добавлена" />
+			<Item Name="LocalizableStrings.SrmColumnNameCaption.Value" Value="Название поля1" />
+		</Items>
+	</Group>
+</Resources>

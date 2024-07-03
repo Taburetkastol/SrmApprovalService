@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Карточка схемы: &quot;Файл и ссылка объекта Артефакт&quot;" />
+			<Item Name="LocalizableStrings.FieldValidationMessage.Value" Value="Fields:" />
+			<Item Name="LocalizableStrings.StandardErrorCaption.Value" Value="Error filling column. See input rule settings." />
+			<Item Name="LocalizableStrings.ValidationMessage.Value" Value="filled in violation of the established validation conditions." />
+		</Items>
+	</Group>
+</Resources>

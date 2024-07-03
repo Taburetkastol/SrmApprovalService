@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "9585164d-aabf-4b44-879a-ded96d9e70ec",
+    "Name": "SrmArtifactCase",
+    "ModifiedOnUtc": "\/Date(1712593230000)\/",
+    "ManagerName": "DcmSchemaManager",
+    "Caption": "Статус Артефакта"
+  }
+}

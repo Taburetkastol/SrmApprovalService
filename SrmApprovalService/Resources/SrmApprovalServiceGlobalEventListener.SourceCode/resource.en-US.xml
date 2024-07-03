@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SrmApprovalServiceGlobalEventListener" />
+			<Item Name="LocalizableStrings.SrmCreateArtifactProcessError.Value" Value="Возникла ошибка в процессе выполнения процесса &quot;INS02.2 Создание Артефакта&quot;" />
+		</Items>
+	</Group>
+</Resources>

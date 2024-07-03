@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-PT">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Карточка схемы: &quot;Артефакт&quot;" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Feed" />
+			<Item Name="LocalizableStrings.FileDetailV2DetailCaptionOnPage.Value" Value="Anexos" />
+			<Item Name="LocalizableStrings.SrmArtifactFileDetailDetailCaptionOnPage.Value" Value="Anexos" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Seguir o feed" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Está a seguir o feed: {0} {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Parar de seguir o feed" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Você parou de seguir o feed: {0}" />
+		</Items>
+	</Group>
+</Resources>

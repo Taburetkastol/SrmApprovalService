@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "3ff6ea01-4f1c-4765-88e1-622d4b0cbc81",
+    "Name": "SrmFieldType",
+    "ModifiedOnUtc": "\/Date(1705048311000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Типы полей"
+  }
+}

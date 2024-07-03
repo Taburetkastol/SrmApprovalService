@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Тег в записи раздела Матрица согласования" />
+			<Item Name="Columns.Entity.Caption" Value="Матрица согласования" />
+			<Item Name="Columns.Tag.Caption" Value="Тег раздела Матрица согласования" />
+		</Items>
+	</Group>
+</Resources>

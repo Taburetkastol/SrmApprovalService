@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "d2477cef-5313-47fd-a16f-be9d1b22464b",
+    "Name": "SrmAutoApprovalExpiredVisaProcess",
+    "ModifiedOnUtc": "\/Date(1713460079000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "INS02.6 Автоматическое согласование просроченных Виз"
+  }
+}

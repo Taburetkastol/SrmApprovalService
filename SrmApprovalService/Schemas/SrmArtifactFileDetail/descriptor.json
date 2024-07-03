@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "781073ff-a946-4635-bd1c-516a56c2594c",
+    "Name": "SrmArtifactFileDetail",
+    "ModifiedOnUtc": "\/Date(1712649161000)\/",
+    "Parent": {
+      "UId": "0c43958a-a409-47bc-a3cb-9bc32451a45a",
+      "Name": "FileDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема детали: \"Файл и ссылка объекта Артефакт\""
+  }
+}

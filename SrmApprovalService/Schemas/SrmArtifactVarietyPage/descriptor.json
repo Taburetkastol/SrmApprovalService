@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "b02eb48a-66fd-444f-a5c3-199aecf2c805",
+    "Name": "SrmArtifactVarietyPage",
+    "ModifiedOnUtc": "\/Date(1709214366000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования: \"Вид артефакта\""
+  }
+}

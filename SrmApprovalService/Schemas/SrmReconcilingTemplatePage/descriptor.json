@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "99be79b2-2d0a-401c-bfe1-e49e67de2178",
+    "Name": "SrmReconcilingTemplatePage",
+    "ModifiedOnUtc": "\/Date(1709229451000)\/",
+    "Parent": {
+      "UId": "3fe3333e-fc7e-4c78-bb4f-0982a9502991",
+      "Name": "SrmReconcilingTemplatePage"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования: \"Шаблон согласующих\""
+  }
+}

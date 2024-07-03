@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "6d226c47-0ce2-4312-a32c-4d970371171f",
+    "Name": "SrmArtifactVarietyFile",
+    "ModifiedOnUtc": "\/Date(1707922684000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Файл и ссылка объекта Вид артефакта"
+  }
+}

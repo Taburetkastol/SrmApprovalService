@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "9190ff82-48a3-4cc5-b534-70ebdd668290",
+    "Name": "SrmReconcilingObjects",
+    "ModifiedOnUtc": "\/Date(1705047553000)\/",
+    "Parent": {
+      "UId": "96c93d08-025b-4892-ac6c-58c83e04d4dd",
+      "Name": "SrmReconcilingObjects"
+    },
+    "ExtendParent": true,
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Объекты согласования"
+  }
+}

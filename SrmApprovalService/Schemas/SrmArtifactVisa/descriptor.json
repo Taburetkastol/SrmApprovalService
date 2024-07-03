@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "1b104869-89f7-4554-aff1-cc6e7405787f",
+    "Name": "SrmArtifactVisa",
+    "ModifiedOnUtc": "\/Date(1705333692000)\/",
+    "Parent": {
+      "UId": "5fa90d0d-64eb-4f52-8d3d-c51fa6443b66",
+      "Name": "BaseVisa"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Виза артефакта"
+  }
+}

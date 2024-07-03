@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "4c42470f-335f-470c-957a-5999f51555bd",
+    "Name": "SrmReconcilingTemplateItemPage",
+    "ModifiedOnUtc": "\/Date(1707135522000)\/",
+    "Parent": {
+      "UId": "29d3a76f-22e5-42a1-a24d-2a57b408a501",
+      "Name": "SrmReconcilingTemplateItemPage"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Карточка схемы: \"Согласующие по шаблону согласующих\""
+  }
+}

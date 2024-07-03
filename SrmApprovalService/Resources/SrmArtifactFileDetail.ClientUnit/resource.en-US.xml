@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Схема детали: &quot;Файл и ссылка объекта Артефакт&quot;" />
+			<Item Name="LocalizableStrings.DemandPositionModalPageName.Value" Value="SrmDemandPositionFileModalPage" />
+			<Item Name="LocalizableStrings.MarkAsApprovedActionCaption.Value" Value="Отметить как согласуемый" />
+			<Item Name="LocalizableStrings.MarkAsSignedActionCaption.Value" Value="markAsSignedActionClick" />
+			<Item Name="LocalizableStrings.SelectAllButtonCaption.Value" Value="Выбрать все" />
+			<Item Name="LocalizableStrings.UnselectAllButtonCaption.Value" Value="Снять все выделения" />
+		</Items>
+	</Group>
+</Resources>

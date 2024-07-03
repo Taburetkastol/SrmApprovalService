@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "8bb302ae-4861-435d-9b75-b2db6e2713ca",
+    "Name": "SrmArtifactMatchingDetail",
+    "ModifiedOnUtc": "\/Date(1712680524000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема детали: \"Согласующие артефакта\""
+  }
+}

@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "dfa44126-16c5-48df-9ba6-7fda333f521e",
+    "Name": "SrmCreateArtifactProcess",
+    "ModifiedOnUtc": "\/Date(1712587084000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "INS02.2 Создание Артефакта"
+  }
+}

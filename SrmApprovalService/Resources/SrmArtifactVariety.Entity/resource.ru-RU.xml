@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Вид артефакта" />
+			<Item Name="Columns.SrmApprovalStatusId.Caption" Value="Статус согласования" />
+			<Item Name="Columns.SrmApprovalTemplate.Caption" Value="Шаблон письма об отклонении" />
+			<Item Name="Columns.SrmArtifactType.Caption" Value="Тип артефакта" />
+			<Item Name="Columns.SrmCancelStatusId.Caption" Value="Статус отмены" />
+			<Item Name="Columns.SrmContent.Caption" Value="Содержание артефакта" />
+			<Item Name="Columns.SrmName.Caption" Value="Название" />
+			<Item Name="Columns.SrmNotes.Caption" Value="Заметки" />
+			<Item Name="Columns.SrmObject.Caption" Value="Объект" />
+			<Item Name="Columns.SrmObjectStageColumn.Caption" Value="Колонка стадии объекта" />
+			<Item Name="Columns.SrmRejectionStatusId.Caption" Value="Статус отклонения" />
+			<Item Name="Columns.SrmRejectionTemplate.Caption" Value="Шаблон письма о согласовании" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

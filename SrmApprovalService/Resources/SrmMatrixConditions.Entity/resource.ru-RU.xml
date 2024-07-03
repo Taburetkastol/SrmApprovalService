@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Условия матрицы согласования" />
+			<Item Name="Columns.SrmComparisonOperator.Caption" Value="Оператор сравнения" />
+			<Item Name="Columns.SrmField.Caption" Value="Поле" />
+			<Item Name="Columns.SrmMatrixCoordination.Caption" Value="Матрица согласования" />
+			<Item Name="Columns.SrmValue.Caption" Value="Значение" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "ddef5104-844a-49db-beef-11a84e0b09d3",
+    "Name": "SrmMatrixCoordinationDetail",
+    "ModifiedOnUtc": "\/Date(1705917872000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема детали: \"Матрица согласования\""
+  }
+}

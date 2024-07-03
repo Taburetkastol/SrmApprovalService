@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "18994153-16aa-40db-9045-464cf75a8ad5",
+    "Name": "SrmMatrixConditionsDetail",
+    "ModifiedOnUtc": "\/Date(1705917770000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема детали: \"Условия матрицы согласования\""
+  }
+}

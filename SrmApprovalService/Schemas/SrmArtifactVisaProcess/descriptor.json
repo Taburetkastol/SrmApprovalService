@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "0bcdee54-1ef2-4aaf-9552-331012dfbd53",
+    "Name": "SrmArtifactVisaProcess",
+    "ModifiedOnUtc": "\/Date(1713513787000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "INS02.3 Визирование Артефакта"
+  }
+}

@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "04993804-8e71-4b11-9955-3f5439e2f6ed",
+    "Name": "SrmCreateAndWaitVisaProcess",
+    "ModifiedOnUtc": "\/Date(1713459789000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "INS02.3.1 Создание и ожидание Визы"
+  }
+}

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Модальное окно &quot;Задача на доработку&quot;" />
+			<Item Name="LocalizableStrings.SrmCancelButtonCaption.Value" Value="Отмена" />
+			<Item Name="LocalizableStrings.SrmCommentCaption.Value" Value="Комментарий" />
+			<Item Name="LocalizableStrings.SrmCompletingTermCaption.Value" Value="Срок выполнения" />
+			<Item Name="LocalizableStrings.SrmHeaderCaption.Value" Value="Задача на доработку" />
+			<Item Name="LocalizableStrings.SrmSaveButtonCaption.Value" Value="Сохранить" />
+		</Items>
+	</Group>
+</Resources>

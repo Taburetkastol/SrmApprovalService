@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Изменение стадии записи объекта согласования" />
+			<Item Name="Parameters.SrmApprovalObject.Caption" Value="Объект согласования" />
+			<Item Name="Parameters.SrmApprovalObjectColumn.Caption" Value="Колонка стадии объекта согласования" />
+			<Item Name="Parameters.SrmApprovalObjectStageId.Caption" Value="Идентификатор стадии объекта согласования" />
+			<Item Name="Parameters.SrmRecordId.Caption" Value="Идентификатор записи объекта согласования" />
+		</Items>
+	</Group>
+</Resources>

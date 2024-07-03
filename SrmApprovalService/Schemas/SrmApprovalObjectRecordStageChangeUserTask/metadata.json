@@ -1,0 +1,66 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ProcessUserTaskSchemaManager",
+      "UId": "59a7686c-71b4-4755-aa26-32e71cc24450",
+      "A2": "SrmApprovalObjectRecordStageChangeUserTask",
+      "A5": "4128fb75-366d-4d29-8fbf-e8a0f05c2c6e",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "40358dc6-59fb-a5e8-dcb9-38cc47250903",
+      "B8": "1.3.0.3026",
+      "FJ1": [
+        {
+          "BL1": "BPMSoft.Core.Process.ProcessSchemaParameter",
+          "UId": "f2a65be7-6c11-dfcd-135c-0ac0220f2e85",
+          "A2": "SrmApprovalObject",
+          "A3": "59a7686c-71b4-4755-aa26-32e71cc24450",
+          "A4": "59a7686c-71b4-4755-aa26-32e71cc24450",
+          "L1": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+          "L8": {},
+          "L6": true,
+          "L9": "b0cf92bc-b2bc-47e7-a0ab-4d60c77b9870",
+          "L11": false
+        },
+        {
+          "BL1": "BPMSoft.Core.Process.ProcessSchemaParameter",
+          "UId": "d97e05b3-0d5d-97cf-bd04-fd723bd3e93b",
+          "A2": "SrmApprovalObjectColumn",
+          "A3": "59a7686c-71b4-4755-aa26-32e71cc24450",
+          "A4": "59a7686c-71b4-4755-aa26-32e71cc24450",
+          "L1": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+          "L8": {},
+          "L6": true,
+          "L9": "49473a98-70d9-4bac-bb5e-283afd7fab3f",
+          "L11": false
+        },
+        {
+          "BL1": "BPMSoft.Core.Process.ProcessSchemaParameter",
+          "UId": "771c8a17-f31e-5af8-c504-81960890da0c",
+          "A2": "SrmRecordId",
+          "A3": "59a7686c-71b4-4755-aa26-32e71cc24450",
+          "A4": "59a7686c-71b4-4755-aa26-32e71cc24450",
+          "L1": "23018567-a13c-4320-8687-fd6f9e3699bd",
+          "L8": {},
+          "L6": true,
+          "L11": false
+        },
+        {
+          "BL1": "BPMSoft.Core.Process.ProcessSchemaParameter",
+          "UId": "762c5f50-9095-b309-ce42-602837e3f779",
+          "A2": "SrmApprovalObjectStageId",
+          "A3": "59a7686c-71b4-4755-aa26-32e71cc24450",
+          "A4": "59a7686c-71b4-4755-aa26-32e71cc24450",
+          "L1": "23018567-a13c-4320-8687-fd6f9e3699bd",
+          "L8": {},
+          "L6": true,
+          "L11": false
+        }
+      ],
+      "FK7": true,
+      "FK12": "#839DC3",
+      "FK16": true
+    }
+  }
+}

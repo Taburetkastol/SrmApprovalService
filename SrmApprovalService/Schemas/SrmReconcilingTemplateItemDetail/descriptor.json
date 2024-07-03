@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "c3cec34c-9939-4f39-8c1a-ab8efb431742",
+    "Name": "SrmReconcilingTemplateItemDetail",
+    "ModifiedOnUtc": "\/Date(1705507917000)\/",
+    "Parent": {
+      "UId": "1a6559f2-88ee-4e30-9c69-8f696c232385",
+      "Name": "SrmReconcilingTemplateItemDetail"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема детали: \"Согласующие по шаблону согласующих\"",
+    "DependsOn": []
+  }
+}

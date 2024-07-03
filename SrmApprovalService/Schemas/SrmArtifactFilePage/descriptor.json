@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "598a90dc-d358-46df-9619-45de523e94cf",
+    "Name": "SrmArtifactFilePage",
+    "ModifiedOnUtc": "\/Date(1712649382000)\/",
+    "Parent": {
+      "UId": "75a62bde-4619-4b23-ab2b-575b8fbf7ec7",
+      "Name": "LinkPageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Карточка схемы: \"Файл и ссылка объекта Артефакт\""
+  }
+}

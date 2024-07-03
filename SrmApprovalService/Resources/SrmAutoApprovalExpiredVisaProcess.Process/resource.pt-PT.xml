@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-PT">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Comment.Caption" Value="Notas" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.CreatedBy.Caption" Value="Criado por" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.CreatedOn.Caption" Value="Criado em" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.DelegatedFrom.Caption" Value="Delegado de" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Id.Caption" Value="Identidade" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.IsAllowedToDelegate.Caption" Value="Delegação permitida" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.IsCanceled.Caption" Value="Cancelado" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.IsRequiredDigitalSignature.Caption" Value="Necessária assinatura digital?" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.ModifiedBy.Caption" Value="Modificado por" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.ModifiedOn.Caption" Value="Modificado em" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Objective.Caption" Value="Propósito da aprovação" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.ProcessListeners.Caption" Value="Processos ativos" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.SetBy.Caption" Value="Aprovado por" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.SetDate.Caption" Value="Aprovado em" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Status.Caption" Value="Estado da aprovação" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.VisaOwner.Caption" Value="Aprovador" />
+		</Items>
+	</Group>
+</Resources>

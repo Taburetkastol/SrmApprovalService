@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "8e586aa4-f8bd-44ef-97d6-e94c82483cc6",
+    "Name": "SrmReconcilingTemplateSection",
+    "ModifiedOnUtc": "\/Date(1707136877000)\/",
+    "Parent": {
+      "UId": "2278f867-8401-43e0-8c89-133902dfb590",
+      "Name": "SrmReconcilingTemplateSection"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема раздела: \"Шаблон согласующих\""
+  }
+}

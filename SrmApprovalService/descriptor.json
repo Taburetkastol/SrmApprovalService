@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "40358dc6-59fb-a5e8-dcb9-38cc47250903",
+    "Name": "SrmApprovalService",
+    "BPMSoftVersion": "1.3.0",
+    "ModifiedOnUtc": "\/Date(1704988532000)\/",
+    "Maintainer": "NorbitSRM",
+    "DependsOn": [
+      {
+        "UId": "0cfa442c-cbea-4d58-c73b-dea588eb6faf",
+        "Name": "SrmCore"
+      }
+    ]
+  }
+}

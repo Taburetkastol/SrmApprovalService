@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Хелпер сервиса согласования" />
+			<Item Name="LocalizableStrings.ColumnUIdNotFoundError.Value" Value="UId колонки не найден" />
+			<Item Name="LocalizableStrings.EntityColumnNotFoundError.Value" Value="Поле {0} не найдено в схеме {1}." />
+			<Item Name="LocalizableStrings.GetApprovalObjectRecordError.Value" Value="Объект {0} с идентификатором {1} не найден." />
+			<Item Name="LocalizableStrings.GetApprovalObjectSchemaUIdError.Value" Value="Идентификатор схемы объекта согласования не найден." />
+			<Item Name="LocalizableStrings.GetArtifactApprovalObjectRecordId.Value" Value="Идентификатор записи объекта согласования артефакта не найден" />
+			<Item Name="LocalizableStrings.GetObjectsConnectionColumnError.Value" Value="Не найдена колонка связи сущностей {0} и {1}" />
+			<Item Name="LocalizableStrings.SchemaNotFoundError.Value" Value="Схема {0} не найдена." />
+		</Items>
+	</Group>
+</Resources>

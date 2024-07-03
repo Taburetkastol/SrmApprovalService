@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "67a38856-24e6-4603-b9c6-d899caebf0b1",
+    "Name": "SrmMatrixCoordination",
+    "ModifiedOnUtc": "\/Date(1707952228000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Матрица согласования"
+  }
+}

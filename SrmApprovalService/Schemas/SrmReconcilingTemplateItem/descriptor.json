@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "4b5f8a1c-03d2-43f0-8698-06716b0642be",
+    "Name": "SrmReconcilingTemplateItem",
+    "ModifiedOnUtc": "\/Date(1707135267000)\/",
+    "Parent": {
+      "UId": "e7bd801f-131f-4c91-af74-58cf5e8f2706",
+      "Name": "SrmReconcilingTemplateItem"
+    },
+    "ExtendParent": true,
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Согласующие по шаблону согласующих"
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "dd186376-d2b6-4e76-bd75-3ffd4e6ae602",
+    "Name": "SrmMatrixConditions",
+    "ModifiedOnUtc": "\/Date(1709303725000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Условия матрицы согласования"
+  }
+}

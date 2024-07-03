@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "ffec55dc-e227-4219-bdc8-e6c4f73bba8e",
+    "Name": "SrmApprovalObjectPage",
+    "ModifiedOnUtc": "\/Date(1707225433000)\/",
+    "Parent": {
+      "UId": "0a254ad1-c2fb-43ae-ac4d-63932be0835b",
+      "Name": "BaseLookupPage"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Карточка схемы cправочника: \"Объекты согласования\""
+  }
+}

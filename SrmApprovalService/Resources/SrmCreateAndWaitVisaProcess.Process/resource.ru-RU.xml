@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.AddDataUserTask1.Caption" Value="Создание визы" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="Учитывать время в фильтре" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Фильтры источника данных" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.EntitySchemaId.Caption" Value="Объект" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.FilterEntitySchemaId.Caption" Value="Объект выборки" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordAddMode.Caption" Value="Режим добавления записей" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordDefValues.Caption" Value="Значения полей" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordDefValues.DisplayValue" Value="{&quot;$type&quot;:&quot;BPMSoft.Core.Process.LocalizableParameterValuesList, BPMSoft.Core&quot;,&quot;$values&quot;:[{&quot;ItemUId&quot;:&quot;7c5c1a93-3ff4-4b19-8e6d-6aed5f7997e5&quot;,&quot;columnMetaPath&quot;:{&quot;value&quot;:&quot;2030058c-ca18-3746-7527-5964136a9c32&quot;},&quot;schemaUId&quot;:{&quot;value&quot;:&quot;1b104869-89f7-4554-aff1-cc6e7405787f&quot;},&quot;value&quot;:{&quot;value&quot;:&quot;[#[IsOwnerSchema:false].[IsSchema:false].[Parameter:{7985ce0f-a617-44f2-88f1-8f4ff17944bd}]#]&quot;},&quot;displayValue&quot;:{&quot;value&quot;:&quot;[#Артефакт#]&quot;},&quot;parameterValue&quot;:{&quot;value&quot;:&quot;{\&quot;$type\&quot;:\&quot;BPMSoft.Core.Process.ProcessSchemaParameterValue, BPMSoft.Core\&quot;,\&quot;Source\&quot;:3,\&quot;DisplayValue\&quot;:\&quot;\&quot;,\&quot;Value\&quot;:\&quot;\&quot;,\&quot;MetaPath\&quot;:null,\&quot;MetaDataValue\&quot;:null,\&quot;ModifiedInSchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;SchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;SchemaManagerName\&quot;:\&quot;\&quot;,\&quot;ReferenceSchemaUId\&quot;:\&quot;31ac07d3-8911-4e54-8e18-4ed3490da427\&quot;,\&quot;ResourceItemName\&quot;:null}&quot;}},{&quot;ItemUId&quot;:&quot;57067c16-c7d3-40ab-90f5-c7809b8ee9af&quot;,&quot;columnMetaPath&quot;:{&quot;value&quot;:&quot;f33a75e0-7ed4-4b06-a410-b9e9323645b1&quot;},&quot;schemaUId&quot;:{&quot;value&quot;:&quot;1b104869-89f7-4554-aff1-cc6e7405787f&quot;},&quot;value&quot;:{&quot;value&quot;:&quot;[#[IsOwnerSchema:false].[IsSchema:false].[Element:{47c275d2-e8a0-4141-ab0a-5ec2d7c6a21f}].[Parameter:{5d327c16-098b-42de-a0ad-2c247a77e318}].[EntityColumn:{923cf9ff-989a-cb28-1bef-bce60e5403a6}]#]&quot;},&quot;displayValue&quot;:{&quot;value&quot;:&quot;[#Получить Согласующего артефакта.Первый элемент результирующей коллекции.Согласующий#]&quot;},&quot;parameterValue&quot;:{&quot;value&quot;:&quot;{\&quot;$type\&quot;:\&quot;BPMSoft.Core.Process.ProcessSchemaParameterValue, BPMSoft.Core\&quot;,\&quot;Source\&quot;:3,\&quot;DisplayValue\&quot;:\&quot;\&quot;,\&quot;Value\&quot;:\&quot;\&quot;,\&quot;MetaPath\&quot;:null,\&quot;MetaDataValue\&quot;:null,\&quot;ModifiedInSchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;SchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;SchemaManagerName\&quot;:\&quot;\&quot;,\&quot;ReferenceSchemaUId\&quot;:\&quot;84f44b9a-4bc3-4cbf-a1a8-cec02c1c029c\&quot;,\&quot;ResourceItemName\&quot;:null}&quot;}},{&quot;ItemUId&quot;:&quot;2bf2fcec-01c7-4c04-8eb6-d5bd8873138f&quot;,&quot;columnMetaPath&quot;:{&quot;value&quot;:&quot;e80190a5-03b2-4095-90f7-a193a960adee&quot;},&quot;schemaUId&quot;:{&quot;value&quot;:&quot;1b104869-89f7-4554-aff1-cc6e7405787f&quot;},&quot;value&quot;:{&quot;value&quot;:&quot;[#SysVariable.CurrentDate#]&quot;},&quot;displayValue&quot;:{&quot;value&quot;:&quot;[#Системная переменная.Текущее значение даты#]&quot;},&quot;parameterValue&quot;:{&quot;value&quot;:&quot;{\&quot;$type\&quot;:\&quot;BPMSoft.Core.Process.ProcessSchemaParameterValue, BPMSoft.Core\&quot;,\&quot;Source\&quot;:3,\&quot;DisplayValue\&quot;:\&quot;\&quot;,\&quot;Value\&quot;:\&quot;\&quot;,\&quot;MetaPath\&quot;:null,\&quot;MetaDataValue\&quot;:null,\&quot;ModifiedInSchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;SchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;SchemaManagerName\&quot;:\&quot;\&quot;,\&quot;DataValueTypeUId\&quot;:\&quot;d21e9ef4-c064-4012-b286-fa1a8171da44\&quot;,\&quot;ReferenceSchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;ResourceItemName\&quot;:null}&quot;}},{&quot;ItemUId&quot;:&quot;53ddf468-b760-419e-9e45-48ae2f37b3f7&quot;,&quot;columnMetaPath&quot;:{&quot;value&quot;:&quot;2bbeae14-717c-0087-96cb-b7dd63ed1a37&quot;},&quot;schemaUId&quot;:{&quot;value&quot;:&quot;1b104869-89f7-4554-aff1-cc6e7405787f&quot;},&quot;value&quot;:{&quot;value&quot;:&quot;[#[IsOwnerSchema:false].[IsSchema:false].[Element:{47c275d2-e8a0-4141-ab0a-5ec2d7c6a21f}].[Parameter:{5d327c16-098b-42de-a0ad-2c247a77e318}].[EntityColumn:{9e4750fb-6ebc-f224-16ca-f86fd3172638}]#]&quot;},&quot;displayValue&quot;:{&quot;value&quot;:&quot;[#Получить Согласующего артефакта.Первый элемент результирующей коллекции.Очередность#]&quot;},&quot;parameterValue&quot;:{&quot;value&quot;:&quot;{\&quot;$type\&quot;:\&quot;BPMSoft.Core.Process.ProcessSchemaParameterValue, BPMSoft.Core\&quot;,\&quot;Source\&quot;:3,\&quot;DisplayValue\&quot;:\&quot;\&quot;,\&quot;Value\&quot;:\&quot;\&quot;,\&quot;MetaPath\&quot;:null,\&quot;MetaDataValue\&quot;:null,\&quot;ModifiedInSchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;SchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;SchemaManagerName\&quot;:\&quot;\&quot;,\&quot;DataValueTypeUId\&quot;:\&quot;6b6b74e2-820d-490e-a017-2b73d4ccf2b0\&quot;,\&quot;ReferenceSchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;ResourceItemName\&quot;:null}&quot;}},{&quot;ItemUId&quot;:&quot;695b8734-e5f8-4739-a29f-dd852eb666c5&quot;,&quot;columnMetaPath&quot;:{&quot;value&quot;:&quot;58ebe36e-7384-4abd-b09c-407c6f508a4d&quot;},&quot;schemaUId&quot;:{&quot;value&quot;:&quot;1b104869-89f7-4554-aff1-cc6e7405787f&quot;},&quot;value&quot;:{&quot;value&quot;:&quot;[#Lookup.66c8f5ac-57d2-4fe8-95a0-89a98e37f57f.bc4f01cf-6e2b-415e-9d85-87c6cfda18ca#]&quot;},&quot;displayValue&quot;:{&quot;value&quot;:&quot;[#Справочник.Состояние визы.В работе.bc4f01cf-6e2b-415e-9d85-87c6cfda18ca#]&quot;},&quot;parameterValue&quot;:{&quot;value&quot;:&quot;{\&quot;$type\&quot;:\&quot;BPMSoft.Core.Process.ProcessSchemaParameterValue, BPMSoft.Core\&quot;,\&quot;Source\&quot;:3,\&quot;DisplayValue\&quot;:\&quot;\&quot;,\&quot;Value\&quot;:\&quot;\&quot;,\&quot;MetaPath\&quot;:null,\&quot;MetaDataValue\&quot;:null,\&quot;ModifiedInSchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;SchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;SchemaManagerName\&quot;:\&quot;\&quot;,\&quot;DataValueTypeUId\&quot;:\&quot;b295071f-7ea9-4e62-8d1a-919bf3732ff2\&quot;,\&quot;ReferenceSchemaUId\&quot;:\&quot;66c8f5ac-57d2-4fe8-95a0-89a98e37f57f\&quot;,\&quot;ResourceItemName\&quot;:null}&quot;}},{&quot;ItemUId&quot;:&quot;2dca788c-478d-4239-9c75-61db0a46e4ce&quot;,&quot;columnMetaPath&quot;:{&quot;value&quot;:&quot;31cc46f6-e44e-5010-dcc6-93826543e849&quot;},&quot;schemaUId&quot;:{&quot;value&quot;:&quot;1b104869-89f7-4554-aff1-cc6e7405787f&quot;},&quot;value&quot;:{&quot;value&quot;:&quot;[#[IsOwnerSchema:false].[IsSchema:false].[Element:{47c275d2-e8a0-4141-ab0a-5ec2d7c6a21f}].[Parameter:{5d327c16-098b-42de-a0ad-2c247a77e318}].[EntityColumn:{11c1f6b5-01c3-6b2c-0f6f-b59d5f7ae2d9}]#]&quot;},&quot;displayValue&quot;:{&quot;value&quot;:&quot;[#Получить Согласующего артефакта.Первый элемент результирующей коллекции.Срок согласования в днях#]&quot;},&quot;parameterValue&quot;:{&quot;value&quot;:&quot;{\&quot;$type\&quot;:\&quot;BPMSoft.Core.Process.ProcessSchemaParameterValue, BPMSoft.Core\&quot;,\&quot;Source\&quot;:3,\&quot;DisplayValue\&quot;:\&quot;\&quot;,\&quot;Value\&quot;:\&quot;\&quot;,\&quot;MetaPath\&quot;:null,\&quot;MetaDataValue\&quot;:null,\&quot;ModifiedInSchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;SchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;SchemaManagerName\&quot;:\&quot;\&quot;,\&quot;DataValueTypeUId\&quot;:\&quot;6b6b74e2-820d-490e-a017-2b73d4ccf2b0\&quot;,\&quot;ReferenceSchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;ResourceItemName\&quot;:null}&quot;}},{&quot;ItemUId&quot;:&quot;3c6c0dc6-1bf4-409d-8a89-90a94ff47276&quot;,&quot;columnMetaPath&quot;:{&quot;value&quot;:&quot;c282c824-7aa1-44b4-b8f0-dca0fe3d8b4b&quot;},&quot;schemaUId&quot;:{&quot;value&quot;:&quot;1b104869-89f7-4554-aff1-cc6e7405787f&quot;},&quot;value&quot;:{&quot;value&quot;:&quot;[#[IsOwnerSchema:false].[IsSchema:false].[Element:{855f185c-0b92-479f-b9db-8d87148061b5}].[Parameter:{d9a25733-2806-44d2-822c-a7e2e7ace13d}].[EntityColumn:{7f397d65-3a78-665c-09d4-ab6b2b411e59}]#]&quot;},&quot;displayValue&quot;:{&quot;value&quot;:&quot;[#Получить название Артефакта.Первый элемент результирующей коллекции.Название#]&quot;},&quot;parameterValue&quot;:{&quot;value&quot;:&quot;{\&quot;$type\&quot;:\&quot;BPMSoft.Core.Process.ProcessSchemaParameterValue, BPMSoft.Core\&quot;,\&quot;Source\&quot;:3,\&quot;DisplayValue\&quot;:\&quot;\&quot;,\&quot;Value\&quot;:\&quot;\&quot;,\&quot;MetaPath\&quot;:null,\&quot;MetaDataValue\&quot;:null,\&quot;ModifiedInSchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;SchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;SchemaManagerName\&quot;:\&quot;\&quot;,\&quot;DataValueTypeUId\&quot;:\&quot;5ca35f10-a101-4c67-a96a-383da6afacfc\&quot;,\&quot;ReferenceSchemaUId\&quot;:\&quot;00000000-0000-0000-0000-000000000000\&quot;,\&quot;ResourceItemName\&quot;:null}&quot;}}]}" />
+			<Item Name="BaseElements.AddDataUserTask1.Parameters.RecordId.Caption" Value="Id созданной записи" />
+			<Item Name="BaseElements.AddDataUserTask2.Caption" Value="Создание новой визы на основании существующей" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.ConsiderTimeInFilter.Caption" Value="Учитывать время в фильтре" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.DataSourceFilters.Caption" Value="Фильтры источника данных" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.EntitySchemaId.Caption" Value="Объект" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.FilterEntitySchemaId.Caption" Value="Объект выборки" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.RecordAddMode.Caption" Value="Режим добавления записей" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.RecordDefValues.Caption" Value="Значения полей" />
+			<Item Name="BaseElements.AddDataUserTask2.Parameters.RecordId.Caption" Value="Id созданной записи" />
+			<Item Name="BaseElements.ChangeAdminRightsUserTask1.Caption" Value="Добавление прав на чтение контакту согласующего" />
+			<Item Name="BaseElements.ChangeAdminRightsUserTask1.Parameters.AddRights.Caption" Value="Список прав на добавление" />
+			<Item Name="BaseElements.ChangeAdminRightsUserTask1.Parameters.AddRights.DisplayValue" Value="[{Id:&quot;78575fae-9a50-4d8c-8710-20588f4f5585&quot;,ParameterName:&quot;Employee1&quot;,Name:&quot;Сотрудник&quot;,CanRead:true,CanEdit:false,CanDelete:false,Source:&quot;3&quot;,Grantee:&quot;Employee&quot;,Value:&quot;[#[IsOwnerSchema:false].[IsSchema:false].[Element:{fc7ce070-7ab0-44e1-8ddd-e40c6a10b0e5}].[Parameter:{e9b7d734-e889-4539-b722-f4d7870c8f30}].[EntityColumn:{14f78dc8-e6ef-48a4-b5e1-0fe3360ee7b3}]#]&quot;,OperationRightLevel:&quot;1&quot;}]" />
+			<Item Name="BaseElements.ChangeAdminRightsUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="Учитывать время в фильтре" />
+			<Item Name="BaseElements.ChangeAdminRightsUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeAdminRightsUserTask1.Parameters.DataSourceFilters.Caption" Value="Объект соответствует условиям" />
+			<Item Name="BaseElements.ChangeAdminRightsUserTask1.Parameters.DeleteRights.Caption" Value="Список прав на удаление" />
+			<Item Name="BaseElements.ChangeAdminRightsUserTask1.Parameters.DeleteRights.DisplayValue" Value="[]" />
+			<Item Name="BaseElements.ChangeAdminRightsUserTask1.Parameters.Employee1.Caption" Value="Сотрудник1" />
+			<Item Name="BaseElements.ChangeAdminRightsUserTask1.Parameters.Employee1.DisplayValue" Value="[#Чтение контакта согласующего.Первый элемент результирующей коллекции.Контакт#]" />
+			<Item Name="BaseElements.ChangeAdminRightsUserTask1.Parameters.EntitySchemaUId.Caption" Value="Объект" />
+			<Item Name="BaseElements.ChangeAdminRightsUserTask1.Parameters.EntitySchemaUId.DisplayValue" Value="31ac07d3-8911-4e54-8e18-4ed3490da427" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Caption" Value="Установить флаг &quot;Отменена&quot; для существующей визы" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="Учитывать время в фильтре" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Фильтры источника данных" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.EntitySchemaUId.Caption" Value="Объект" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IsMatchConditions.Caption" Value="Если объект соответствует условиям" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.IsMatchConditions.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeDataUserTask1.Parameters.RecordColumnValues.Caption" Value="Значения полей" />
+			<Item Name="BaseElements.ChangeDataUserTask2.Caption" Value="Установка результата выполнения &quot;Согласовано&quot;" />
+			<Item Name="BaseElements.ChangeDataUserTask2.Parameters.ConsiderTimeInFilter.Caption" Value="Учитывать время в фильтре" />
+			<Item Name="BaseElements.ChangeDataUserTask2.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeDataUserTask2.Parameters.DataSourceFilters.Caption" Value="Фильтры источника данных" />
+			<Item Name="BaseElements.ChangeDataUserTask2.Parameters.EntitySchemaUId.Caption" Value="Объект" />
+			<Item Name="BaseElements.ChangeDataUserTask2.Parameters.IsMatchConditions.Caption" Value="Если объект соответствует условиям" />
+			<Item Name="BaseElements.ChangeDataUserTask2.Parameters.IsMatchConditions.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeDataUserTask2.Parameters.RecordColumnValues.Caption" Value="Значения полей" />
+			<Item Name="BaseElements.ChangeDataUserTask3.Caption" Value="Установка результата выполнения &quot;Отклонено&quot;" />
+			<Item Name="BaseElements.ChangeDataUserTask3.Parameters.ConsiderTimeInFilter.Caption" Value="Учитывать время в фильтре" />
+			<Item Name="BaseElements.ChangeDataUserTask3.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeDataUserTask3.Parameters.DataSourceFilters.Caption" Value="Фильтры источника данных" />
+			<Item Name="BaseElements.ChangeDataUserTask3.Parameters.EntitySchemaUId.Caption" Value="Объект" />
+			<Item Name="BaseElements.ChangeDataUserTask3.Parameters.IsMatchConditions.Caption" Value="Если объект соответствует условиям" />
+			<Item Name="BaseElements.ChangeDataUserTask3.Parameters.IsMatchConditions.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ChangeDataUserTask3.Parameters.RecordColumnValues.Caption" Value="Значения полей" />
+			<Item Name="BaseElements.ConditionalSequenceFlow1.Caption" Value="Основана на существующей" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Caption" Value="Отправка сообщения" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.Account.Caption" Value="Контрагент" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.ActivityCategory.Caption" Value="Категория" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.ActivityCategory.DisplayValue" Value="[#Справочник.Категория активности.E-mail.8038a396-7825-e011-8165-00155d043204#]" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.ActivityId.Caption" Value="Id задачи" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.ActivityResult.Caption" Value="Результат активности" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.Body.Caption" Value="Тело письма" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.BodyConfig.Caption" Value="Конфигурация тела письма для контент билдера" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.BodyTemplateType.Caption" Value="Какое сообщение отправить?" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.BodyTemplateType.DisplayValue" Value="Произвольное письмо" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.Case.Caption" Value="Обращение" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.Change.Caption" Value="Изменение" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.Contact.Caption" Value="Контакт" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.Contract.Caption" Value="Договор" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.CreateActivity.Caption" Value="Создать активность" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.CreateActivity.DisplayValue" Value="false" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.Document.Caption" Value="Документ" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.Duration.Caption" Value="Длительность" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.Duration.DisplayValue" Value="5" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.DurationPeriod.Caption" Value="Длительность (период)" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.DurationPeriod.DisplayValue" Value="0" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.EmailTemplateEntityId.Caption" Value="Запись для формирования макросов" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.EmailTemplateId.Caption" Value="Письмо по шаблону" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.ExecutionContext.Caption" Value="Контекст выполнения" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.IgnoreErrors.Caption" Value="Игнорировать ошибки отправки" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.IgnoreErrors.DisplayValue" Value="true" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.Importance.Caption" Value="Важность" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.Importance.DisplayValue" Value="Средняя" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.Incident.Caption" Value="Инцидент" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.InformationOnStep.Caption" Value="Информация по шагу" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.Invoice.Caption" Value="Счет" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.IsActivityCompleted.Caption" Value="Активность завершена" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.Lead.Caption" Value="Лид" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.Listing.Caption" Value="Листинг" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.Opportunity.Caption" Value="Продажа" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.Order.Caption" Value="Заказ" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.OwnerId.Caption" Value="Ответственный" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.Problem.Caption" Value="Проблема" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.Project.Caption" Value="Проект" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.Property.Caption" Value="Объект недвижимости" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.QueueItem.Caption" Value="Элемент очереди" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.Recipient1.Caption" Value="Кому 1" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.Recipient1.DisplayValue" Value="[#Чтение контакта согласующего.Первый элемент результирующей коллекции.Контакт#]" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.Recommendation.Caption" Value="Рекомендация" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.Recommendation.DisplayValue" Value="Отправка сообщения" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.Recommendation.Value" Value="Отправка сообщения" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.Release.Caption" Value="Релиз" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.RemindBefore.Caption" Value="За сколько напоминать ответственному" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.RemindBefore.DisplayValue" Value="0" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.RemindBeforePeriod.Caption" Value="За сколько напоминать ответственному (период)" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.RemindBeforePeriod.DisplayValue" Value="0" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.Requests.Caption" Value="Заявка" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.SendEmailType.Caption" Value="Как выполняется отправка?" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.SendEmailType.DisplayValue" Value="Отправить email автоматически" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.Sender.Caption" Value="От кого" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.Sender.DisplayValue" Value="[#Системная настройка.SrmProductNotificationMailBox#]" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.ShowExecutionPage.Caption" Value="Показывать страницу выполнения автоматически" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.ShowExecutionPage.DisplayValue" Value="true" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.ShowInScheduler.Caption" Value="Отображать в расписании" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.SrmArtifact.Caption" Value="Артефакт" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.SrmDemand.Caption" Value="Заявки на приобретение" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.SrmDemandPosition.Caption" Value="Позиции заявки на приобретение" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.SrmProtocol.Caption" Value="Протокол" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.SrmPurchase.Caption" Value="Закупки" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.SrmPurchasePublic.Caption" Value="Процедура" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.SrmQuestionnaire.Caption" Value="Анкета поставщика" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.SrmSelection.Caption" Value="Конкурентный лист" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.SrmSrmContract.Caption" Value="Договор" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.SrmSrmContractObligation.Caption" Value="Обязательство договора" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.SrmSrmOrder.Caption" Value="Заказ" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.SrmSrmOrderPosition.Caption" Value="Позиция заказа" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.StartIn.Caption" Value="Через сколько начать выполнение" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.StartIn.DisplayValue" Value="0" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.StartInPeriod.Caption" Value="Через сколько начать выполнение (период)" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.StartInPeriod.DisplayValue" Value="0" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.Subject.Caption" Value="Тема" />
+			<Item Name="BaseElements.EmailTemplateUserTask.Parameters.Subject.DisplayValue" Value="[#Название артефакта#]" />
+			<Item Name="BaseElements.FormulaTask1.Caption" Value="Установка значения параметра &quot;Созданная виза артефакта&quot;" />
+			<Item Name="BaseElements.FormulaTask2.Caption" Value="Установка значения параметра &quot;Созданная виза артефакта&quot;" />
+			<Item Name="BaseElements.IntermediateCatchSignal1.Caption" Value="Получена положительная виза" />
+			<Item Name="BaseElements.IntermediateCatchSignal1.Parameters.RecordId.DisplayValue" Value="[#Созданная виза артефакта#]" />
+			<Item Name="BaseElements.IntermediateCatchSignal2.Caption" Value="Получена отрицательная виза" />
+			<Item Name="BaseElements.IntermediateCatchSignal2.Parameters.RecordId.DisplayValue" Value="[#Созданная виза артефакта#]" />
+			<Item Name="BaseElements.IntermediateCatchSignal4.Caption" Value="Получена виза для доработки" />
+			<Item Name="BaseElements.IntermediateCatchSignal4.Parameters.RecordId.DisplayValue" Value="[#Созданная виза артефакта#]" />
+			<Item Name="BaseElements.ReadDataUserTask1.Caption" Value="Чтение данных согласующего артефакта" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.AggregationColumnName.Caption" Value="Имя колонки для агрегирующей функции" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.CanReadUncommitedData.Caption" Value="Выполнять &quot;грязное чтение&quot;" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="Учитывать время в фильтре" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Источник данных фильтров" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.EntityColumnMetaPathes.Caption" Value="Перечень колонок для чтения" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.FunctionType.Caption" Value="Тип агрегирующей функции" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.IgnoreDisplayValues.Caption" Value="Не читать отображаемые значения колонок Справочников" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.NumberOfRecords.Caption" Value="Количество записей для чтения" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.OrderInfo.Caption" Value="Порядок сортировки колонок" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ReadSomeTopRecords.Caption" Value="Читать первые" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Caption" Value="Коллекция записей" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCount.Caption" Value="Количество записей" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultDateTimeFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultEntity.Caption" Value="Первый элемент результирующей коллекции" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultEntityCollection.Caption" Value="Результирующая коллекция" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultFloatFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultIntegerFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultRowsCount.Caption" Value="Количество прочитанных записей" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultType.Caption" Value="Тип результата" />
+			<Item Name="BaseElements.ReadDataUserTask2.Caption" Value="Чтение данных артефакта" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.AggregationColumnName.Caption" Value="Имя колонки для агрегирующей функции" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.CanReadUncommitedData.Caption" Value="Выполнять &quot;грязное чтение&quot;" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ConsiderTimeInFilter.Caption" Value="Учитывать время в фильтре" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.DataSourceFilters.Caption" Value="Источник данных фильтров" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.EntityColumnMetaPathes.Caption" Value="Перечень колонок для чтения" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.FunctionType.Caption" Value="Тип агрегирующей функции" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.IgnoreDisplayValues.Caption" Value="Не читать отображаемые значения колонок Справочников" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.NumberOfRecords.Caption" Value="Количество записей для чтения" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.OrderInfo.Caption" Value="Порядок сортировки колонок" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ReadSomeTopRecords.Caption" Value="Читать первые" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCompositeObjectList.Caption" Value="Коллекция записей" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultCount.Caption" Value="Количество записей" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultDateTimeFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultEntity.Caption" Value="Первый элемент результирующей коллекции" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultEntityCollection.Caption" Value="Результирующая коллекция" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultFloatFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultIntegerFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultRowsCount.Caption" Value="Количество прочитанных записей" />
+			<Item Name="BaseElements.ReadDataUserTask2.Parameters.ResultType.Caption" Value="Тип результата" />
+			<Item Name="BaseElements.ReadDataUserTask3.Caption" Value="Чтение данных визы артефакта" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.AggregationColumnName.Caption" Value="Имя колонки для агрегирующей функции" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.CanReadUncommitedData.Caption" Value="Выполнять &quot;грязное чтение&quot;" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ConsiderTimeInFilter.Caption" Value="Учитывать время в фильтре" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.DataSourceFilters.Caption" Value="Источник данных фильтров" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.EntityColumnMetaPathes.Caption" Value="Перечень колонок для чтения" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.FunctionType.Caption" Value="Тип агрегирующей функции" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.IgnoreDisplayValues.Caption" Value="Не читать отображаемые значения колонок Справочников" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.NumberOfRecords.Caption" Value="Количество записей для чтения" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.OrderInfo.Caption" Value="Порядок сортировки колонок" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ReadSomeTopRecords.Caption" Value="Читать первые" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCompositeObjectList.Caption" Value="Коллекция записей" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultCount.Caption" Value="Количество записей" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultDateTimeFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultEntity.Caption" Value="Первый элемент результирующей коллекции" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultEntityCollection.Caption" Value="Результирующая коллекция" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultFloatFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultIntegerFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultRowsCount.Caption" Value="Количество прочитанных записей" />
+			<Item Name="BaseElements.ReadDataUserTask3.Parameters.ResultType.Caption" Value="Тип результата" />
+			<Item Name="BaseElements.ReadDataUserTask4.Caption" Value="Чтение контакта согласующего" />
+			<Item Name="BaseElements.ReadDataUserTask4.Parameters.AggregationColumnName.Caption" Value="Имя колонки для агрегирующей функции" />
+			<Item Name="BaseElements.ReadDataUserTask4.Parameters.CanReadUncommitedData.Caption" Value="Выполнять &quot;грязное чтение&quot;" />
+			<Item Name="BaseElements.ReadDataUserTask4.Parameters.ConsiderTimeInFilter.Caption" Value="Учитывать время в фильтре" />
+			<Item Name="BaseElements.ReadDataUserTask4.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadDataUserTask4.Parameters.DataSourceFilters.Caption" Value="Источник данных фильтров" />
+			<Item Name="BaseElements.ReadDataUserTask4.Parameters.EntityColumnMetaPathes.Caption" Value="Перечень колонок для чтения" />
+			<Item Name="BaseElements.ReadDataUserTask4.Parameters.FunctionType.Caption" Value="Тип агрегирующей функции" />
+			<Item Name="BaseElements.ReadDataUserTask4.Parameters.IgnoreDisplayValues.Caption" Value="Не читать отображаемые значения колонок Справочников" />
+			<Item Name="BaseElements.ReadDataUserTask4.Parameters.NumberOfRecords.Caption" Value="Количество записей для чтения" />
+			<Item Name="BaseElements.ReadDataUserTask4.Parameters.OrderInfo.Caption" Value="Порядок сортировки колонок" />
+			<Item Name="BaseElements.ReadDataUserTask4.Parameters.ReadSomeTopRecords.Caption" Value="Читать первые" />
+			<Item Name="BaseElements.ReadDataUserTask4.Parameters.ResultCompositeObjectList.Caption" Value="Коллекция записей" />
+			<Item Name="BaseElements.ReadDataUserTask4.Parameters.ResultCount.Caption" Value="Количество записей" />
+			<Item Name="BaseElements.ReadDataUserTask4.Parameters.ResultDateTimeFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.ReadDataUserTask4.Parameters.ResultEntity.Caption" Value="Первый элемент результирующей коллекции" />
+			<Item Name="BaseElements.ReadDataUserTask4.Parameters.ResultEntityCollection.Caption" Value="Результирующая коллекция" />
+			<Item Name="BaseElements.ReadDataUserTask4.Parameters.ResultFloatFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.ReadDataUserTask4.Parameters.ResultIntegerFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.ReadDataUserTask4.Parameters.ResultRowsCount.Caption" Value="Количество прочитанных записей" />
+			<Item Name="BaseElements.ReadDataUserTask4.Parameters.ResultType.Caption" Value="Тип результата" />
+			<Item Name="BaseElements.ReadDataUserTask5.Caption" Value="Чтение данных контакта согласующего" />
+			<Item Name="BaseElements.ReadDataUserTask5.Parameters.AggregationColumnName.Caption" Value="Имя колонки для агрегирующей функции" />
+			<Item Name="BaseElements.ReadDataUserTask5.Parameters.CanReadUncommitedData.Caption" Value="Выполнять &quot;грязное чтение&quot;" />
+			<Item Name="BaseElements.ReadDataUserTask5.Parameters.ConsiderTimeInFilter.Caption" Value="Учитывать время в фильтре" />
+			<Item Name="BaseElements.ReadDataUserTask5.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="BaseElements.ReadDataUserTask5.Parameters.DataSourceFilters.Caption" Value="Источник данных фильтров" />
+			<Item Name="BaseElements.ReadDataUserTask5.Parameters.EntityColumnMetaPathes.Caption" Value="Перечень колонок для чтения" />
+			<Item Name="BaseElements.ReadDataUserTask5.Parameters.FunctionType.Caption" Value="Тип агрегирующей функции" />
+			<Item Name="BaseElements.ReadDataUserTask5.Parameters.IgnoreDisplayValues.Caption" Value="Не читать отображаемые значения колонок Справочников" />
+			<Item Name="BaseElements.ReadDataUserTask5.Parameters.NumberOfRecords.Caption" Value="Количество записей для чтения" />
+			<Item Name="BaseElements.ReadDataUserTask5.Parameters.OrderInfo.Caption" Value="Порядок сортировки колонок" />
+			<Item Name="BaseElements.ReadDataUserTask5.Parameters.ReadSomeTopRecords.Caption" Value="Читать первые" />
+			<Item Name="BaseElements.ReadDataUserTask5.Parameters.ResultCompositeObjectList.Caption" Value="Коллекция записей" />
+			<Item Name="BaseElements.ReadDataUserTask5.Parameters.ResultCount.Caption" Value="Количество записей" />
+			<Item Name="BaseElements.ReadDataUserTask5.Parameters.ResultDateTimeFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.ReadDataUserTask5.Parameters.ResultEntity.Caption" Value="Первый элемент результирующей коллекции" />
+			<Item Name="BaseElements.ReadDataUserTask5.Parameters.ResultEntityCollection.Caption" Value="Результирующая коллекция" />
+			<Item Name="BaseElements.ReadDataUserTask5.Parameters.ResultFloatFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.ReadDataUserTask5.Parameters.ResultIntegerFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.ReadDataUserTask5.Parameters.ResultRowsCount.Caption" Value="Количество прочитанных записей" />
+			<Item Name="BaseElements.ReadDataUserTask5.Parameters.ResultType.Caption" Value="Тип результата" />
+			<Item Name="BaseElements.ScriptTask1.Caption" Value="Формирование тела и темы сообщения" />
+			<Item Name="BaseElements.StartEvent1.Caption" Value="Старт" />
+			<Item Name="BaseElements.SubProcess1.Caption" Value="Расчет сроков по календарю рабочих дней" />
+			<Item Name="BaseElements.SubProcess1.Parameters.SrmDate.Caption" Value="Дата" />
+			<Item Name="BaseElements.SubProcess1.Parameters.SrmDate.DisplayValue" Value="[#Системная переменная.Текущее значение даты#]" />
+			<Item Name="BaseElements.SubProcess1.Parameters.SrmDayByTerm.Caption" Value="День после расчета срока" />
+			<Item Name="BaseElements.SubProcess1.Parameters.SrmTerm.Caption" Value="Срок" />
+			<Item Name="BaseElements.SubProcess1.Parameters.SrmTerm.DisplayValue" Value="[#Чтение данных согласующего артефакта.Первый элемент результирующей коллекции.Срок согласования в днях#]" />
+			<Item Name="BaseElements.SubProcess2.Caption" Value="Расчет сроков по календарю рабочих дней на основании срока ожидания существующей визы" />
+			<Item Name="BaseElements.SubProcess2.Parameters.SrmDate.Caption" Value="Дата" />
+			<Item Name="BaseElements.SubProcess2.Parameters.SrmDate.DisplayValue" Value="[#Системная переменная.Текущее значение даты и времени#]" />
+			<Item Name="BaseElements.SubProcess2.Parameters.SrmDayByTerm.Caption" Value="День после расчета срока" />
+			<Item Name="BaseElements.SubProcess2.Parameters.SrmTerm.Caption" Value="Срок" />
+			<Item Name="BaseElements.SubProcess2.Parameters.SrmTerm.DisplayValue" Value="[#Чтение данных визы артефакта.Первый элемент результирующей коллекции.Срок ожидания визы#]" />
+			<Item Name="BaseElements.TerminateEvent1.Caption" Value="Завершение" />
+			<Item Name="Caption" Value="INS02.3.1 Создание и ожидание Визы" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Заголовок экземпляра процесса" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Название процесса#]" />
+			<Item Name="Parameters.IsBasedOnExisting.Caption" Value="Основана на существующей" />
+			<Item Name="Parameters.SrmArtifact.Caption" Value="Артефакт" />
+			<Item Name="Parameters.SrmArtifactMatching.Caption" Value="Согласующий артефакта" />
+			<Item Name="Parameters.SrmArtifactName.Caption" Value="Название артефакта" />
+			<Item Name="Parameters.SrmArtifactName.DisplayValue" Value="[#Чтение данных артефакта.Первый элемент результирующей коллекции.Название#]" />
+			<Item Name="Parameters.SrmArtifactVisa.Caption" Value="Виза артефакта" />
+			<Item Name="Parameters.SrmCreatedArtifactVisa.Caption" Value="Созданная виза артефакта" />
+		</Items>
+	</Group>
+</Resources>

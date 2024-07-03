@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "f0d8658d-5cdc-40aa-9edd-a385b70cc4f0",
+    "Name": "SrmApprovalObjectLookupSection",
+    "ModifiedOnUtc": "\/Date(1707222557000)\/",
+    "Parent": {
+      "UId": "c8c39e3b-de05-4d01-814a-45c7981e139f",
+      "Name": "BaseLookupConfigurationSection"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема раздела справочника: \"Объекты согласования\""
+  }
+}

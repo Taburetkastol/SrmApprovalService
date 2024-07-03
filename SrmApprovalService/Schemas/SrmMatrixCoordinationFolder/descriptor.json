@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "83297ded-8e43-4406-89b4-dd0aa8e02fa5",
+    "Name": "SrmMatrixCoordinationFolder",
+    "ModifiedOnUtc": "\/Date(1707952234000)\/",
+    "Parent": {
+      "UId": "d602bf96-d029-4b07-9755-63c8f5cb5ed5",
+      "Name": "BaseFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Группа Матрица согласования"
+  }
+}

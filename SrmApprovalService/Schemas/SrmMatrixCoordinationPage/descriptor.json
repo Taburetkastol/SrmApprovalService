@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "c354612e-f962-4ce7-a52b-1daf49b4cc8f",
+    "Name": "SrmMatrixCoordinationPage",
+    "ModifiedOnUtc": "\/Date(1709475102000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования: \"Матрицы согласования\""
+  }
+}

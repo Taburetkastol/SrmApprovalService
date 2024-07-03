@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "31ac07d3-8911-4e54-8e18-4ed3490da427",
+    "Name": "SrmArtifact",
+    "ModifiedOnUtc": "\/Date(1709307575000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Артефакт"
+  }
+}

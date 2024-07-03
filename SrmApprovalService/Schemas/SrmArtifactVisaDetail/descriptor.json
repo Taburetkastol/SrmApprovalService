@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "5b8dd6e7-0bfb-4ad7-a08f-2e250672343c",
+    "Name": "SrmArtifactVisaDetail",
+    "ModifiedOnUtc": "\/Date(1705336203000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема детали: \"Визы артефакта\""
+  }
+}
